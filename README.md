@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&color=6FA8DC&center=true&vCenter=true&width=600&pause=1500&lines=Hi,+I'm+Fuko.;Nice+to+Meet+You." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&color=6FA8DC&center=true&vCenter=true&width=600&pause=1500&lines=Hi,+I'm+Fuko.;Nice+to+Meet+You!" />
 
 <p>
   <code>🎓 Applied AI</code>
