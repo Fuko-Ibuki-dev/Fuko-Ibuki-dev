@@ -22,8 +22,6 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
 
-  <br/>
-
   <a href="https://b23.tv/H9Z1SME">
     <img src="https://img.shields.io/badge/Bilibili-Fuko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
   </a>
