@@ -36,11 +36,6 @@
 
 ---
 
-### Tech
-Python · JavaScript · SQL · Flask · Streamlit
-
----
-
 ### Currently
 - Building automation systems  
 - Exploring practical AI applications  
